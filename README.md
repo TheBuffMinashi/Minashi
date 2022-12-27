@@ -1,6 +1,8 @@
 ### Hey! I'm Mina (Minashi)
 
-I'm an AI Engineer from Iran. (😄 Pronouns: She/ Her/ Hers)
+## (😄 Pronouns: She/ Her/ Hers)
+
+I'm an AI Engineer from Iran. 
 
 🔭 I’m currently working at Gaply Co. where we use AI to develope customized solutions for businesses.
 
