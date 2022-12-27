@@ -1,6 +1,6 @@
 ### Hey! I'm Mina (Minashi)
 
-# (😄 Pronouns: She/ Her/ Hers)
+(😄 Pronouns: She/ Her/ Hers)
 
 I'm an AI Engineer from Iran. 
 
