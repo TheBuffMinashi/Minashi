@@ -1,7 +1,9 @@
 ### Hey! I'm Mina (Minashi)
 
 I'm an AI Engineer from Iran. (😄 Pronouns: She/ Her/ Hers)
+
 🔭 I’m currently working at Gaply Co. where we use AI to develope customized solutions for businesses.
+
 I like to build things with Deep Learning and Machine Learning, Python, JavaScript, modern backend APIs, and modern frontend frameworks.
 
 
