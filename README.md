@@ -11,7 +11,7 @@ I like to build things with Deep Learning and Machine Learning, Python, JavaScri
 I’m currently learning Full-Stack Web Development with the help of Meta's [Back-end](https://www.coursera.org/professional-certificates/meta-back-end-developer) and [Front-end](https://www.coursera.org/professional-certificates/meta-front-end-developer) Development Professional Certificates
 
 📫 How to reach me:
-* [e-Mail](husseinpourmina@gmail.com)
+* [e-Mail](mailto:husseinpourmina@gmail.com)
 * [Twitter](https://twitter.com/TheMinashi)
 * [GitHub (you are here)](https://github.com/TheBuffMinashi)
 * [LinkedIn](https://www.linkedin.com/in/husseinpourmina/)
